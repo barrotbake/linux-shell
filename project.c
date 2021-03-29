@@ -23,6 +23,7 @@
 //     }
 // }
 
+//I've commented the parts of my code that unfortunatly do not work
 int main(void) {
  char *args[MAXSIZE /2 + 1]; /* command line arguments */
  char *parsedArgs[MAXSIZE];
